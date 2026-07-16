@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="center">🧠 Backend & Linguagens</h3>
+<h3 align="center">🧠 Backend </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
