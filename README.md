@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Camunda_7-FF4400?style=for-the-badge&logo=camunda&logoColor=white" />
 </p>
 
