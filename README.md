@@ -9,7 +9,6 @@
 <p align="center">
   <a href="mailto:contato.vfm1@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/devvitorfarias"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me/5548921030711"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Java_Dev_desde-2017-2F81F7?style=flat-square" />
 </p>
 
@@ -101,32 +100,6 @@
 </p>
 
 <br>
-
-<h3 align="center">🚀 Experiência recente</h3>
-
-<table align="center">
-<tr>
-<td width="600">
-
-**Senior Java Developer** @ act digital `06/2024 – 10/2025`
-Android com Kotlin/Jetpack Compose, CQRS/DDD, contribuição no projeto de IA StackSpot dentro do Banco Itaú
-
-**Senior Java Developer** @ Corebiz `11/2022 – 06/2024`
-Plataformas de e-commerce em Java 21/Spring Boot, arquitetura serverless com AWS Lambda
-
-**Senior Java Developer** @ Grupo Lamoda `03/2021 – 11/2021`
-Liderança técnica de time de ~8 pessoas, decisões de arquitetura de e-commerce
-
-**Mid-Level Java Developer** @ Cadastra `11/2021 – 11/2022`
-Arquitetura orientada a eventos, SEO e SSR/SSG com Next.js
-
-**Junior Java Developer** @ Due Laser `12/2017 – 12/2020`
-Testes automatizados, design patterns, CI/CD com Jenkins
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -148,7 +121,5 @@ Testes automatizados, design patterns, CI/CD com Jenkins
 <p align="center">
   🇧🇷 Português — Nativo &nbsp;·&nbsp; 🇺🇸 English — C1 (Advanced)
 </p>
-
-<p align="center"><i>Aberto a novas oportunidades como Java / Backend Developer 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0F2027&height=100&section=footer" />
