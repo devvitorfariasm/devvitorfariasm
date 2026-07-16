@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:contato.vfm1@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/devvitorfarias"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 
