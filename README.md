@@ -3,18 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+6+%E2%86%92+21+%7C+Kotlin+%7C+Spring+Boot+%2F+Quarkus;Sistemas+de+alta+criticidade+para+bancos+e+e-commerces;AWS+EKS+%7C+Kafka+%7C+Docker+%7C+Redis;Angular+%7C+React+%7C+Node.js+%7C+Android" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="mailto:contato.vfm1@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/devvitorfarias"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Java_Dev_desde-2017-2F81F7?style=flat-square" />
 </p>
 
-<p align="center">
-  💼 Sistemas de alta criticidade para <b>bancos nacionais</b>, <b>e-commerces</b> e <b>ERPs</b> · Foco em performance, escalabilidade e código limpo
-</p>
 
 <br>
 
