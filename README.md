@@ -116,7 +116,6 @@
 
 ## 📌 Projetos em destaque
 
-> Código 100% pessoal, com dados fictícios. Nada de projetos de clientes.
 
 | Projeto | O que mostra | Stack |
 |---|---|---|
