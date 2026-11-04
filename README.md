@@ -114,24 +114,6 @@
 
 <br>
 
-## 📌 Projetos em destaque
-
-
-| Projeto | O que mostra | Stack |
-|---|---|---|
-| 🚧 `abap-nfe-xml-parser` | Leitura e validação de XML de NF-e/CT-e contra pedido de compra | ABAP OO, abapGit, abaplint |
-| 🚧 `cap-s4-side-by-side` | Extensão Clean Core consumindo API de S/4HANA via CAP | CAP, OData, HANA Cloud, BTP |
-| 🚧 `fiori-elements-rap-demo` | App Fiori Elements sobre RAP/CDS | RAP, CDS, Fiori Elements |
-| 🚧 `cpi-iflow-patterns` | Padrões de iFlow: REST/JSON, tratamento de erro, retry | Integration Suite / CPI |
-| 🚧 `sap-devops-pipeline` | CI de ABAP e deploy de MTA na BTP | GitHub Actions, abaplint, MTA, Terraform |
-| 🚧 `sap-notes-ptbr` | Guias em português: upgrade S/4HANA, ATC, SPAU/SPDD, análise de dump | Markdown |
-
-<sub>🚧 = em construção. Troque pelo link quando o repositório estiver publicado.</sub>
-
-<br>
-
-## 🎯 Foco atual
-
 - Extensões Clean Core e ABAP Cloud / RAP
 - Integrações e automação de processos com IA
 - Pipelines CI/CD para o ecossistema SAP
